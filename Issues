@@ -1,0 +1,9 @@
+2019/04/28
+-------------------
+jsonTree.min.js:formatted:39 Uncaught TypeError: r is not a function
+    at jsonTree.min.js:formatted:39
+    at Array.forEach (<anonymous>)
+    at jsonTree.applyClasses (jsonTree.min.js:formatted:34)
+    at jsonTree.classify (jsonTree.min.js:formatted:29)
+    at new jsonTree (jsonTree.min.js:formatted:5)
+    at modernizr.html:28
